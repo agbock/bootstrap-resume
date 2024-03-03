@@ -1,0 +1,64 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+a:link, a:visited {
+  text-decoration: none;
+  color: lightpink;
+}
+
+a:hover {
+text-decoration: underline;
+background-color: palegoldenrod;
+color:dodgerblue;
+}
+
+a:active {
+text-decoration: none;
+color: palegoldenrod;
+}
+
+
+Body {background-image: linear-gradient(darkred, deeppink, lightpink);}
+
+
+            h1 { color: #72102f;
+                /* Maroon */ 
+                padding: 20px;
+                font-family: "Kaisei Decol", serif;
+                text-shadow: 2px 2px 6px lightgrey;
+                font-weight: 400;
+                font-style: normal;
+                font-size: 3.0em;
+                text-align: center;}
+
+            h1, h2, #info { text-align: center; }
+
+            h2 {color: whitesmoke;
+                text-transform: uppercase;
+                font-size: 1em;
+                letter-spacing: 0.65em; 
+                border-style: double;}
+
+ul {
+  list-style-image: url('swirl copy.png');
+}
+
+
+            img {
+                opacity: 1.0;
+                }
+            img:hover {
+                opacity: 0.5;
+                }
+
+
+
+.header {background-color: #d14783;}
+.col-md-6 {background-color: #87949c;}
+
+.container {border: 5px solid black;}
+
+img {width:205px; position: static;}
+
+
+
+
